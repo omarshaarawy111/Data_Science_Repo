@@ -1,9 +1,4 @@
-# Data_Science_Repo
-
-
-change in test
-
-
-editing git hub
-
-editing pulling
+This is data sceinece repo with all materials
+_______________________________________________
+|Welcome
+_______________________________________________
